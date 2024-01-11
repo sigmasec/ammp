@@ -10,6 +10,9 @@ AMMP is developed by Sigma Security.
 
 
 ## Changelogs
+### PyPortable v1.0.0
+[Release on GitHub](https://github.com/sigmasec/ammp/releases/tag/PyPortable)
+
 ### v0.0.1
 [Release on GitHub](https://github.com/sigmasec/ammp/releases/tag/v0.0.1)
 
